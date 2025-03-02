@@ -1,1 +1,13 @@
-# Hello_git
+<!DOCTYPE html>
+<html lang="uk">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width-device-width, initial-scale=1.0">
+    <title>Doument</title>
+</head>
+
+<body>
+    <h1>Doc</h1>
+</body>
+</html>
